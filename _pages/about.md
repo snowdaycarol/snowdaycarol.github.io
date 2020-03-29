@@ -1,7 +1,7 @@
 ---
 permalink: /about/
 title: "About"
-link: https://www.cerner.com/
+link: https://www.cerner.com
 ---
 
 User Experience Designer with degrees in industrial design and art history. I see design as a process of meeting needs. In previous lives I made pottery, waited tables, and managed events. More recently I completed a Web Design Certificate from University of the Arts. I now work at a **healthcare IT company** where I continue to refine my skills, while learning new ones.
