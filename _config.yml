@@ -16,7 +16,7 @@
 title: User Experience Portfolio
 email: carolsohan@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  User Experience Design portfolio
+  UX/UI
 twitter_username: snowdaycarol
 github_username: snowdaycarol
 minimal_mistakes_skin: default
@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Carol So Han"
   avatar : "/assets/images/v13.png"
-  bio    : "User Experience, web design, industrial design"
+  bio    : "UX designer who plays well with others"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
