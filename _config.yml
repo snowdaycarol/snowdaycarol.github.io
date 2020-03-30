@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Carol So Han"
   avatar : "/assets/images/v13.png"
-  bio    : "UX designer who plays well with others"
+  # bio    : 
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
