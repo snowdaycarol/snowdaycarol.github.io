@@ -13,10 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: User Experience Portfolio
+title: Carol So Han
 email: carolsohan@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  UX/UI
+  User Experience portfolio of Carol Han
 twitter_username: snowdaycarol
 github_username: snowdaycarol
 minimal_mistakes_skin: default
@@ -56,11 +56,11 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Carol So Han"
+  name   : "Carol Han"
   avatar : "/assets/images/v13.png"
-  # bio    : 
+  bio    : UX/UI Designer 
   links:
-    - label: "Website"
+    # - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://www.carolsohan.com"
     - label: "Twitter"
