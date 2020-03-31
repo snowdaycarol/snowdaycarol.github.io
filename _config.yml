@@ -7,21 +7,19 @@
 #
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-
 # Site settings
 # These are used to personalize your new site. If you look in the HTML files,
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Carol So Han
+title: User Experience Portfolio
 email: carolsohan@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  User Experience portfolio of Carol Han
+  UX/UI
 twitter_username: snowdaycarol
 github_username: snowdaycarol
 minimal_mistakes_skin: default
 search: true
-
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
@@ -30,10 +28,8 @@ permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-
 include:
   - _pages
-
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
@@ -45,7 +41,6 @@ include:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
-
 # Plugins (previously gems:)
 plugins:
   - jekyll-paginate
@@ -54,13 +49,12 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
-
 author:
-  name: "Carol So Han"
-  avatar: "/assets/images/bio-photo.jpg"
-  bio: "I am an **amazing** person."
+  name   : "Carol So Han"
+  avatar : "/assets/images/v13.png"
+  bio    : 
   links:
-    # - label: "Website"
+    - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://www.carolsohan.com"
     - label: "Twitter"
@@ -69,7 +63,6 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
-
 footer:
   links:
     - label: "Twitter"
@@ -78,12 +71,10 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
-
 collections:
   works:
     output: true
     permalink: /:collection/:path/
-
 defaults:
   # portfolio landing page
   - scope:
@@ -111,7 +102,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-
 category_archive:
   type: liquid
   path: /categories/
