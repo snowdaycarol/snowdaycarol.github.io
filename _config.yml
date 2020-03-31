@@ -56,9 +56,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name             : "Your Name"
-  avatar           : "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  name: "Carol So Han"
+  avatar: "/assets/images/bio-photo.jpg"
+  bio: "I am an **amazing** person."
   links:
     # - label: "Website"
       icon: "fas fa-fw fa-link"
